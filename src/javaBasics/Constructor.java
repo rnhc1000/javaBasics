@@ -3,8 +3,8 @@ package javaBasics;
 
 
 class Machine {
-	private String name;
-	private int code;
+	public String name;
+	public int code;
 	
 	public Machine() {
 		System.out.println("First Constructor running!");
@@ -33,8 +33,9 @@ public class Constructor {
 		
 		Machine machineThree = new Machine("Chalky", 7);
 		
-//		System.out.println(machineOne.name);
-//		System.out.println(machineTwo.name);
+		System.out.println(machineOne.name);
+		System.out.println(machineTwo.name);
+		System.out.println(machineThree.name);
 		
 		
 		
