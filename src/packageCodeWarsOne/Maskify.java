@@ -16,25 +16,23 @@ public class Maskify {
 	Maskify() {
 
 	}
-	
 
-	    public static boolean  isIsogram(String str) {
-	        int lenStr = str.length();
-	        String sanitizedStr = str.toLowerCase();
-	      
-	        for (int i=0; i < lenStr; i++){
-	          
-	          for (int j=i+1; j<lenStr; j++) {
-	        	  System.out.print(sanitizedStr.charAt(i) + " " + sanitizedStr.charAt(j)+ " - ");
-	            
-	            if (Character.compare((sanitizedStr.charAt(i)), (sanitizedStr.charAt(j))) == 0) {
-	              return false;
-	            }
-	          }
-	        }
-	      return true;
-	    } 
+	public static boolean isIsogram(String str) {
+		int lenStr = str.length();
+		String sanitizedStr = str.toLowerCase();
 
+		for (int i = 0; i < lenStr; i++) {
+
+			for (int j = i + 1; j < lenStr; j++) {
+				System.out.print(sanitizedStr.charAt(i) + " " + sanitizedStr.charAt(j) + " - ");
+
+				if (Character.compare((sanitizedStr.charAt(i)), (sanitizedStr.charAt(j))) == 0) {
+					return false;
+				}
+			}
+		}
+		return true;
+	}
 
 	public static String maskify(String str) {
 
@@ -68,7 +66,7 @@ public class Maskify {
 		// TODO Auto-generated method stub
 
 		System.out.println(maskify("4566789"));
-		
+
 		System.out.println(isIsogram("Milson"));
 
 	}
