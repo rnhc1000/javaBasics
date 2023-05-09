@@ -14,16 +14,14 @@ import java.util.HashSet;
 public class LeetCodeHashMapOne {
 
 	/**
-	 * @param args Given an Integer array, return TRUE if any value appear at least
-	 *             TWICE in the array and return FALSE if every element is distinct
-	 *             Input: nums = [1,2,3,1]; Output: true Input : nums = [1,2,3,4];
-	 *             Output: false Input: nums = [1,1,1,3,4,4,3,4,4,2]; Output: false
-	 */
-
-	/**
-	 * 
+	 * Given an Integer array, return TRUE if any value appear at least
+	 * TWICE in the array and return FALSE if every element is distinct
+	 * Input: nums = [1,2,3,1]; Output: true 
+	 * Input : nums = [1,2,3,4]; Output: false 
+	 * Input: nums = [1,1,1,3,4,4,3,4,4,2]; Output: false
 	 * @param nums
-	 * @return boolean true if duplicates, false otherwise TC=O(n2), SC=O(1)
+	 * @return 	boolean true if duplicates, 
+	 * 			false otherwise TC=O(n2), SC=O(1)
 	 */
 
 	public static boolean evaluateDuplicatesOne(int[] nums) {
