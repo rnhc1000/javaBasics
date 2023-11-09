@@ -1,4 +1,6 @@
 package packageDome;
+
+import java.util.Arrays;
 /**
  * 
  * @author: { 
@@ -47,12 +49,14 @@ public class BinarySearchTree {
 
 		String s = new String(b);
 		System.out.println(s);
-		System.out.println(b);
+		System.out.println(Arrays.toString(b));
 
 		int x = 5;
 
-		int y = x++ + ++x;
+		int y = x++ + ++x; 
+		System.out.println("1. "+x);
 		int z = x-- - --x;
+		System.out.println("2. "+x);
 
 		System.out.println(y);
 		System.out.println(z);

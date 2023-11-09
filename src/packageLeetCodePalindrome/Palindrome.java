@@ -15,23 +15,14 @@ import java.lang.reflect.Method;
  *       Algorithm: Two Pointers
  *
  */
-/**
- * @author rnhc1
- *
- */
-public class Palindrome {
 
-  /**
-   * @param args
-   */
+public class Palindrome {
 
   public static boolean isPalindrome(String s) {
 
-    Object obj = s;
+    if (s != null) {
 
-    if (obj instanceof String) {
-
-      if (s.isEmpty() || s.length() < 2) {
+      if (s.length() < 2) {
 
         return false;
       }
@@ -64,14 +55,14 @@ public class Palindrome {
 
   public static int[] twoSum(int[] numbers, int target) {
     int[] result = new int[2];
-    int sum = 0;
+    int sumUp = 0;
     int sizeOfNumbers = numbers.length;
     for (int i = 0; i < sizeOfNumbers; i++) {
       for (int j = i + 1; j < sizeOfNumbers; j++) {
-        System.out.println(sum);
-        sum = numbers[i] + numbers[j];
+        System.out.println(sumUp);
+        sumUp = numbers[i] + numbers[j];
         System.out.println("Sum: " + "i: " + i + " j: " + j);
-        if (sum == target) {
+        if (sumUp == target) {
           System.out.println("Soma OK " + "i: " + i + " j: " + j);
           result[0] = i + 1;
           result[1] = j + 1;
@@ -139,11 +130,12 @@ public class Palindrome {
     int[] a = new int[10];
 
     System.out.println(a.length);
-    if (isPalindrome("101")) {
+    String s = "anana";
+    if (isPalindrome(s)) {
 
-      System.out.println("Palindrome");
+      System.out.println(s + " is Palindrome!");
     } else {
-      System.out.println("Não....");
+      System.out.println(s + " is not Palindrome....");
     }
     int[] request = { 1, 2, 3, 4, 4, 9, 56, 90 };
     int t = 8;

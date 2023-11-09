@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4792d225-4435-48df-bbf4-7a6c9c28c0d7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" afterPath="$PROJECT_DIR$/../.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/ArrayOfStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/ArrayOfStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/Constructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/Constructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/ForLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/ForLoops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/Frog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/Frog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/Frogg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/Frogg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/Getters.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/Getters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/If.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/If.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/Machine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/Machine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/MethodsOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/MethodsOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/MultiDimensionalArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/MultiDimensionalArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/MyFirstClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/MyFirstClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/NonPrimitiveTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/NonPrimitiveTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/PrimitiveTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/PrimitiveTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/Setters.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/Setters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/SpringBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/SpringBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/StaticOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/StaticOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/Thing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/Thing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/ToStringOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/ToStringOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/UserInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/UserInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/UserInputOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/UserInputOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/javaBasics/WhileLoops.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/javaBasics/WhileLoops.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageArrayList/ArrayListOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageArrayList/ArrayListOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageCodeWarsOne/Isogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageCodeWarsOne/Isogram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageCodeWarsOne/Maskify.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageCodeWarsOne/Maskify.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageCodeWarsThree/EmojiSorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageCodeWarsThree/EmojiSorted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageCodeWarsTwo/DNA.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageCodeWarsTwo/DNA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageCustomObjects/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageCustomObjects/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageCustomObjects/SetAndKeyInMaps.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageCustomObjects/SetAndKeyInMaps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageDome/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageDome/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageDome/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageDome/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageDome/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageDome/Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageEight/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageEight/Animals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageEight/GenericsOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageEight/GenericsOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageEighteen/StreamOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageEighteen/StreamOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageEleven/ReadingFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageEleven/ReadingFiles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageFifteen/ArgumentsOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageFifteen/ArgumentsOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageFive/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageFive/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageFive/InheritanceOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageFive/InheritanceOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageFive/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageFive/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageFour/CastingOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageFour/CastingOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageFourteen/OverloadMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageFourteen/OverloadMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageFourteen/OverloadOne$1Season.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageFourteen/OverloadOne$1Season.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageFourteen/OverloadOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageFourteen/OverloadOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageHashMap/HashMapOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageHashMap/HashMapOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageLinkedList/LinkedListOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageLinkedList/LinkedListOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageLinkedin/LinkedinTestOne$1Direction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageLinkedin/LinkedinTestOne$1Direction$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageLinkedin/LinkedinTestOne$1Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageLinkedin/LinkedinTestOne$1Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageLinkedin/LinkedinTestOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageLinkedin/LinkedinTestOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageNine/Animals.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageNine/Animals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageNine/Camera.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageNine/Camera.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageNine/GenericTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageNine/GenericTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageNine/Machine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageNine/Machine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageNineteen/StreamTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageNineteen/StreamTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageOne/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageOne/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageOne/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageOne/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageOne/Machine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageOne/Machine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageOne/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageOne/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageSet/SetOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageSet/SetOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageSeven/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageSeven/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageSeventeen/ClassX.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageSeventeen/ClassX.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageSeventeen/ClassY.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageSeventeen/ClassY.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageSeventeen/OutputClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageSeventeen/OutputClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageSix/Camera.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageSix/Camera.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageSix/Machine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageSix/Machine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageSix/UpDownCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageSix/UpDownCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageSixteen/UrlOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageSixteen/UrlOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageSortedMap/SortedMapOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageSortedMap/SortedMapOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTen/AnonymousClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTen/AnonymousClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTen/AnonymousClass$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTen/AnonymousClass$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTen/AnonymousClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTen/AnonymousClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTen/Machine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTen/Machine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageThirty/InnerClassOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageThirty/InnerClassOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageThirty/Robot$Battery.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageThirty/Robot$Battery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageThirty/Robot$Brain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageThirty/Robot$Brain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageThirty/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageThirty/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageThree/Plant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageThree/Plant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageThree/PolimorphismOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageThree/PolimorphismOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageThree/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageThree/Tree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwelve/HandlingExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwelve/HandlingExceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwenty/StreamThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwenty/StreamThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyEight/EqualsOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyEight/EqualsOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyEight/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyEight/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyFive/ReadingFilesTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyFive/ReadingFilesTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyFour/AbstractClassOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyFour/AbstractClassOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyFour/Camera.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyFour/Camera.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyFour/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyFour/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyFour/Machine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyFour/Machine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyNine/AutoCloseableOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyNine/AutoCloseableOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyNine/ReadFileTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyNine/ReadFileTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyOne/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyOne/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyOne/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyOne/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyOne/protectedOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyOne/protectedOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentySeven/CreatingFilesOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentySeven/CreatingFilesOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentySix/readingFilesOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentySix/readingFilesOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyThree/MultipleExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyThree/MultipleExceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwentyThree/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwentyThree/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwo/Oak.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwo/Oak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwo/Plant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwo/Plant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/packageTwo/PublicPrivateProtected.class" beforeDir="false" afterPath="$PROJECT_DIR$/../bin/packageTwo/PublicPrivateProtected.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageAdaFaceException/AdafaceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/packageAdaFaceException/AdafaceException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageAdaFaceException/CustomException$AdafaceException.class" beforeDir="false" afterPath="$PROJECT_DIR$/packageAdaFaceException/CustomException$AdafaceException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageAdafaceEnums/MWC.class" beforeDir="false" afterPath="$PROJECT_DIR$/packageAdafaceEnums/MWC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageAdafaceEnums/MWC.java" beforeDir="false" afterPath="$PROJECT_DIR$/packageAdafaceEnums/MWC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageAdafaceStaticBlocks/AdafaceDisease.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageAdafaceStaticBlocks/AdafaceDisease.java" beforeDir="false" afterPath="$PROJECT_DIR$/packageAdafaceStaticBlocks/AdafaceDisease.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageAdafaceStaticBlocks/Cancer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageAdafaceStaticBlocks/Disease.class" beforeDir="false" afterPath="$PROJECT_DIR$/packageAdafaceStaticBlocks/Disease.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageDome/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/packageDome/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageDome/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/packageDome/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageDome/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/packageDome/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageParenthesis/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/packageParenthesis/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packageParenthesis/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/packageParenthesis/Solution.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2U2PAgCODrAkvi1TVvRazyZlh3f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dailyChallenges",
+    "last_opened_file_path": "/home/rferreira/dev/javaBasics/src"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4792d225-4435-48df-bbf4-7a6c9c28c0d7" name="Changes" comment="" />
+      <created>1692134560716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692134560716</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -18,7 +18,7 @@ public class AdafaceException {
 
 		public static void main(String[] args) {
 			try {
-				calculate(42);
+				calculate(22);
 			} catch (CustomException e) {
 				System.out.println("Catch 22");
 			}
