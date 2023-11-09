@@ -11,7 +11,8 @@ public class ForLoops {
 			
 		}
 		
-		/**
+		/*
+		 *
 		 * for-each to loop exclusively over an array
 		 * for (type variableName: arrayName) {
 		 * 	code to be executed

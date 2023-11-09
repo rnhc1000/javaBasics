@@ -4,7 +4,7 @@ public class MultiDimensionalArrays {
 
 	public static void main(String[] args) {
 
-		int[] values = { 3,2,245};
+		int[] values = { 3,2,245 };
 		
 		for (int value: values) {
 			System.out.println(value);
@@ -16,7 +16,6 @@ public class MultiDimensionalArrays {
 				{2,3,4,5}
 		};
 		
-		String[][] texts = new String[2][3];
 		int row = 0;
 		int column = 0;
 		
@@ -26,17 +25,10 @@ public class MultiDimensionalArrays {
 		System.out.println("Row Length -> " + eachRowLength);
 		
 		for (row = 0; row < gridLength; row++) {
-			
 			eachRowLength = grid[row].length;
-			
 			for (column = 0; column < eachRowLength; column++) {
-				
 				System.out.println("Multidimensional -> " + grid[row][column]);
-				
-				
 			}
-			
-			
 		}
 	}
 

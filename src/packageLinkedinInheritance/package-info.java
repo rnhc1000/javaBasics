@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author rferreira
+ *
+ */
+package packageLinkedinInheritance;
